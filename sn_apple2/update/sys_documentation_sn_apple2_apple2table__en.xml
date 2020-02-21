@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="apple2table" language="en" table="sn_apple2_apple2table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>apple2table</label>
+            <language>en</language>
+            <name>sn_apple2_apple2table</name>
+            <plural>apple2tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2020-02-10 19:21:45</sys_created_on>
+            <sys_id>005be98b193ac010f87779baf659d385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>apple2table</sys_name>
+            <sys_package display_value="apple2" source="sn_apple2">5c2be58b193ac010f87779baf659d363</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="apple2">5c2be58b193ac010f87779baf659d363</sys_scope>
+            <sys_update_name>sys_documentation_sn_apple2_apple2table__en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2020-02-10 19:21:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
